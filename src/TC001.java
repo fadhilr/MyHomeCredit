@@ -69,7 +69,7 @@ public class TC001 extends Base {
 //		char[] x = valueOTP.toCharArray();
 //		//Fill 6 digit OTP dengan nilai valueOTP
 //		for (int i = 1; i <= x.length; i++) {
-//			driver.findElementById("otp-"+i).sendKeys(x[i]);
+//			driver.findElementById("otp-"+i).sendKeys(String.valueOf(x[i]));
 //		}
 //		//Klik daftar
 //		driver.findElementByXPath("//android.widget.Button[@text='Daftar']").click();
