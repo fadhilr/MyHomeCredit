@@ -1,5 +1,5 @@
-# MyHomeCredit
+# MyHomeCredit - Tes Antikode
 
-Project tes Anti Kode
+Project automation testing Android APPS 
 
 Dibuat menggunakan Appium dengan bahasa java
